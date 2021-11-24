@@ -1,6 +1,6 @@
 # Hera Library Manager
 
-This repository contains the Toit package manager.
+This repository contains the Hera Library Manager.
 
 ## Community
 
