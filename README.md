@@ -4,7 +4,7 @@ This repository contains the Hera Library Manager.
 
 ## Community
 
-We use [GitHub Discussions](https://github.com/heralab/hera-lang/discussions) to discuss and learn
+We use [GitHub Discussions](https://github.com/heralab/hlm/discussions) to discuss and learn
 the Hera language and the library management system.
 
 We follow a [code of conduct](CODE_OF_CONDUCT.md) in all our community interactions.
